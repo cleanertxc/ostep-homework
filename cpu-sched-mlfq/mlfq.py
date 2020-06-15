@@ -357,7 +357,7 @@ while finishedJobs < totalJobs:
         
 
 
-# print out statistics
+# p
 print('')
 print('Final statistics:')
 responseSum   = 0
